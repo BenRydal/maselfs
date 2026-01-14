@@ -8,6 +8,11 @@
 <svelte:head>
 	<title>Overview - MaSelfS</title>
 	<meta name="description" content="Overview of the Mapping Self in Society teaching framework and its three sequential activities." />
+	<meta property="og:title" content="Overview - MaSelfS" />
+	<meta property="og:description" content="Overview of the Mapping Self in Society teaching framework and its three sequential activities." />
+	<meta property="og:url" content="https://maselfs.org/overview" />
+	<meta property="og:image" content="/images/overview-hero.jpg" />
+	<link rel="canonical" href="https://maselfs.org/overview" />
 </svelte:head>
 
 <!-- Hero Section -->

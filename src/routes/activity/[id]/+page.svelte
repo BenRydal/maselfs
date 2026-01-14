@@ -12,6 +12,14 @@
 <svelte:head>
 	<title>Activity {data.activity.id}: {data.activity.title} - MaSelfS</title>
 	<meta name="description" content={data.activity.description} />
+	<meta property="og:title" content="Activity {data.activity.id}: {data.activity.title} - MaSelfS" />
+	<meta property="og:description" content={data.activity.description} />
+	<meta property="og:image" content={data.activity.heroImage} />
+	<meta property="og:url" content="https://maselfs.org/activity/{data.activity.id}" />
+	<meta name="twitter:title" content="Activity {data.activity.id}: {data.activity.title} - MaSelfS" />
+	<meta name="twitter:description" content={data.activity.description} />
+	<meta name="twitter:image" content={data.activity.heroImage} />
+	<link rel="canonical" href="https://maselfs.org/activity/{data.activity.id}" />
 </svelte:head>
 
 <!-- Hero Section -->

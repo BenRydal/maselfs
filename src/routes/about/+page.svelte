@@ -68,6 +68,10 @@
 <svelte:head>
 	<title>About - MaSelfS</title>
 	<meta name="description" content="Learn about the team and institutions behind the Mapping Self in Society project." />
+	<meta property="og:title" content="About - MaSelfS" />
+	<meta property="og:description" content="Learn about the team and institutions behind the Mapping Self in Society project." />
+	<meta property="og:url" content="https://maselfs.org/about" />
+	<link rel="canonical" href="https://maselfs.org/about" />
 </svelte:head>
 
 <!-- Hero Section -->

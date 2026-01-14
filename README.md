@@ -1,5 +1,13 @@
 # MaSelfS - Mapping Self in Society
 
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-2.0-FF3E00?style=flat&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?style=flat&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+
+<https://github.com/BenRydal/maselfs/raw/main/static/videos/card-video.mp4>
+
 A teaching framework for personal geography and critical spatial inquiry. MaSelfS guides learners through collecting, visualizing, and reflecting on their own location data to understand how personal movement patterns intersect with broader social systems.
 
 ## Overview
@@ -132,10 +140,6 @@ Ben Rydal Shapiro, Rogers Hall, Natalie Robbins, Steve Wernke, Amanda Meng, Sier
 - Shapiro, B.R., Meng, A., O'Donnell, C., Lou, C., Zhao, E., Dankwa, B., & Hostetler, A. (2020). [Re-Shape: A Method to Teach Data Ethics for Data Science Education](https://www.researchgate.net/publication/338789145_Re-Shape_A_Method_to_Teach_Data_Ethics_for_Data_Science_Education). *CHI 2020*.
 
 - Marin, A., Headrick-Taylor, K., Shapiro, B.R., & Hall, R. (2020). [Why Learning on the Move: Intersecting Research Pathways for Mobility, Learning and Teaching](https://www.tandfonline.com/doi/full/10.1080/07370008.2020.1769100). *Cognition and Instruction, 38(3)*, 265-280.
-
-## License
-
-This project is open source. See [LICENSE](LICENSE) for details.
 
 ## Contact
 

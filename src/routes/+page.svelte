@@ -7,6 +7,8 @@
 
 <svelte:head>
 	<title>MaSelfS - Mapping Self in Society</title>
+	<meta property="og:url" content="https://maselfs.org/" />
+	<link rel="canonical" href="https://maselfs.org/" />
 </svelte:head>
 
 <!-- Hero Section with Video Background -->

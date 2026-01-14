@@ -40,6 +40,10 @@
 <svelte:head>
 	<title>Resources - MaSelfS</title>
 	<meta name="description" content="Tools, readings, and downloadable resources for the Mapping Self in Society framework." />
+	<meta property="og:title" content="Resources - MaSelfS" />
+	<meta property="og:description" content="Tools, readings, and downloadable resources for the Mapping Self in Society framework." />
+	<meta property="og:url" content="https://maselfs.org/resources" />
+	<link rel="canonical" href="https://maselfs.org/resources" />
 </svelte:head>
 
 <!-- Hero Section -->
