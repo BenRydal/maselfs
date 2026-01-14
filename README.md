@@ -6,7 +6,9 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 
-<https://github.com/BenRydal/maselfs/raw/main/static/videos/card-video.mp4>
+<p align="center">
+  <img src="static/images/activity-2-hero.jpg" alt="MaSelfS - Mapping Self in Society" width="100%">
+</p>
 
 A teaching framework for personal geography and critical spatial inquiry. MaSelfS guides learners through collecting, visualizing, and reflecting on their own location data to understand how personal movement patterns intersect with broader social systems.
 
