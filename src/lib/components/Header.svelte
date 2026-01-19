@@ -27,7 +27,7 @@
   }
 </script>
 
-<svelte:window on:click={closeDropdown} />
+<svelte:window onclick={closeDropdown} />
 
 <header class="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur-sm border-b border-gray-100">
   <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -134,8 +134,9 @@
           <div>
             <button
               class="w-full flex items-center justify-between px-3 py-2 text-base font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-50 rounded-lg transition-colors"
-              onclick={toggleActivitiesDropdown}
+              onclick={(e) => { e.stopPropagation(); toggleActivitiesDropdown(); }}
               aria-expanded={activitiesDropdownOpen}
+              aria-haspopup="true"
             >
               Activities
               <ChevronDown class="w-5 h-5 transition-transform {activitiesDropdownOpen ? 'rotate-180' : ''}" />
